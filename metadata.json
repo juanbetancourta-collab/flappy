@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird Arcade Deluxe",
+  "description": "Edición arcade renovada de Flappy Bird con físicas suaves, efectos de sonido procedurales, personalización de aves y temas, y tabla de récords.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
